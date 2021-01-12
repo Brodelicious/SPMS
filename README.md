@@ -52,4 +52,4 @@ Run the Project1Javalin.java file (found in srs/main/java/com/revature/app) as a
 * Brodie Hufnagel
 
 ## License
-This project uses the following license: [<MIT_License>].
+This project uses the following license: <MIT_LICENSE>.
