@@ -43,7 +43,7 @@ To-do list:
 
 ## Getting Started
 >$ git clone http://github.com/bhufnagel/SPMS
-You will need to create your own PostgreSQL database (either locally or on AWS) and configure hibernate.cfg.xml file to the database.
+* You will need to create your own PostgreSQL database (either locally or on AWS) and configure hibernate.cfg.xml file to the database.
 
 ## Usage
 Run the Project1Javalin.java file (found in srs/main/java/com/revature/app) as a java application. Open your browser and go to localhost:8080.
